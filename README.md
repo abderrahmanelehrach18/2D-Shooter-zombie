@@ -8,7 +8,7 @@ A fast-paced 2D top-down shooter game built from scratch with C++ and SDL2. Surv
 
 ![Gameplay Demo](gameplay.mp4)
 
-*Click above to watch gameplay footage*
+*dowloade to watch gameplay footage*
 
 ---
 
